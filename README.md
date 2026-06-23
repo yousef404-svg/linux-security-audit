@@ -65,11 +65,13 @@ chmod +x audit.sh modules/*.sh
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🖥️ Menu
 ![Menu](https://github.com/user-attachments/assets/44b3cf6c-e8f5-42d3-8936-0c03889e9a56)
 
-### 👤 Users Audit
-![Users](https://github.com/user-attachments/assets/abb176e6-b75a-4203-bb67-877bb158c7c7)
+### 👤 Users
+![Users](https://github.com/user-attachments/assets/abb1766e-b75a-4203-bb67-877bb158c7c7)
 
-### 🛡️ Security Score
+### 🛡️ Score
 ![Score](https://github.com/user-attachments/assets/773e869b-bcd1-422f-8677-7e1a56a86cab)
