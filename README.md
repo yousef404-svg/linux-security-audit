@@ -22,8 +22,7 @@ It generates a security score, color-coded CLI output, and detailed reports for 
 - Color-coded CLI output (PASS / WARN / FAIL)
 - Automated report generation
 
-## 📂 Project Structure
-
+##  Project Structure
 
 linux-security-audit/
 │
@@ -50,10 +49,10 @@ chmod +x audit.sh modules/*.sh
 
 ---
 
-# ▶️ 5) Usage
+#  5) Usage
 
 ```md
-## ▶️ Usage
+##  Usage
 
 Run full system audit:
 
