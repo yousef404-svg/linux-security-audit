@@ -63,9 +63,13 @@ chmod +x audit.sh modules/*.sh
 
 📸 Screenshots
 
-![Menu](<img width="1920" height="1020" alt="MENU" src="https://github.com/user-attachments/assets/44b3cf6c-e8f5-42d3-8936-0c03889e9a56" />
-)
-![Users](<img width="1920" height="1020" alt="users" src="https://github.com/user-attachments/assets/abb176e6-b75a-4203-bb67-877bb158c7c3" />
-)
-![Score](<img width="1911" height="961" alt="hardening" src="https://github.com/user-attachments/assets/773e869b-bcd1-422f-8677-7e1a56a86cab" />
-)
+## 📸 Screenshots
+
+### 🖥️ Menu
+![Menu](https://github.com/user-attachments/assets/44b3cf6c-e8f5-42d3-8936-0c03889e9a56)
+
+### 👤 Users Audit
+![Users](https://github.com/user-attachments/assets/abb176e6-b75a-4203-bb67-877bb158c7c7)
+
+### 🛡️ Security Score
+![Score](https://github.com/user-attachments/assets/773e869b-bcd1-422f-8677-7e1a56a86cab)
