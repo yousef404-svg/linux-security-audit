@@ -79,6 +79,7 @@ do
         2)
             clear
             show_banner
+            loading
 
             ./modules/users.sh
 
@@ -89,6 +90,7 @@ do
         3)
             clear
             show_banner
+            loading
 
             ./modules/ports.sh
 
@@ -99,6 +101,7 @@ do
         4)
             clear
             show_banner
+            loading
 
             ./modules/services.sh
 
@@ -109,6 +112,7 @@ do
         5)
             clear
             show_banner
+            loading
 
             ./modules/hardening.sh
 
