@@ -13,7 +13,6 @@ Linux Security Audit Tool is a Bash-based security auditing utility that scans a
 
 It provides:
 - Security score
-- Color-coded CLI output
 - Automated detailed reports
 - Interactive menu-based interface
 
@@ -28,7 +27,6 @@ It provides:
 - Critical directory permissions check
 - World-writable files detection
 - Security scoring system (0–10)
-- Color-coded CLI output (PASS / WARN / FAIL)
 - Automated report generation
 - Modular architecture design
 
